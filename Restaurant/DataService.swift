@@ -22,4 +22,8 @@ struct DataService {
                 MenuItem(name: "Shrimp Sushi", price: "230.70", imageName: "shrimp-sushi"),
                 MenuItem(name: "Ikura Sushi", price: "404.16", imageName: "ikura-sushi")]
     }
+    
+    func getPhotos() -> [String] {
+        return ["gallery1", "gallery2", "gallery3", "gallery4", "gallery5", "gallery6", "gallery7", "gallery8", "gallery9", "gallery10", "gallery11"]
+    }
 }
