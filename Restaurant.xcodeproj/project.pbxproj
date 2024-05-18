@@ -17,6 +17,7 @@
 		B60773D92BF759CB00FA44B4 /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B60773D82BF759CB00FA44B4 /* AboutView.swift */; };
 		B60773DB2BF75A2000FA44B4 /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B60773DA2BF75A2000FA44B4 /* GalleryView.swift */; };
 		B60773DD2BF75A5F00FA44B4 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B60773DC2BF75A5F00FA44B4 /* MenuView.swift */; };
+		B62B911D2BF7B54C00845573 /* PhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B62B911C2BF7B54C00845573 /* PhotoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		B60773D82BF759CB00FA44B4 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		B60773DA2BF75A2000FA44B4 /* GalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryView.swift; sourceTree = "<group>"; };
 		B60773DC2BF75A5F00FA44B4 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		B62B911C2BF7B54C00845573 /* PhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				B60773C62BF7587A00FA44B4 /* MainView.swift */,
 				B60773D82BF759CB00FA44B4 /* AboutView.swift */,
 				B60773DA2BF75A2000FA44B4 /* GalleryView.swift */,
+				B62B911C2BF7B54C00845573 /* PhotoView.swift */,
 				B60773DC2BF75A5F00FA44B4 /* MenuView.swift */,
 				B60773D22BF7598F00FA44B4 /* DataService.swift */,
 				B60773D32BF7598F00FA44B4 /* MenuItem.swift */,
@@ -158,6 +161,7 @@
 				B60773DB2BF75A2000FA44B4 /* GalleryView.swift in Sources */,
 				B60773DD2BF75A5F00FA44B4 /* MenuView.swift in Sources */,
 				B60773D52BF7598F00FA44B4 /* DataService.swift in Sources */,
+				B62B911D2BF7B54C00845573 /* PhotoView.swift in Sources */,
 				B60773D62BF7598F00FA44B4 /* MenuItem.swift in Sources */,
 				B60773C72BF7587A00FA44B4 /* MainView.swift in Sources */,
 				B60773D72BF7598F00FA44B4 /* MenuListRow.swift in Sources */,
